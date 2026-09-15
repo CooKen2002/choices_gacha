@@ -48,9 +48,9 @@ class _HomeScreenState extends State<HomeScreen> {
     double progress = _pageValue.clamp(0.0, 1.0);
 
     Alignment currentAlignment = Alignment.lerp(
-      const Alignment(0.0, 0.2), // Vị trí ban đầu ở màn 1 (hơi lệch xuống giữa)
+      const Alignment(-1, 0.2), // Vị trí ban đầu ở màn 1 sang sát bên trái ngay từ trang đầu
       const Alignment(
-        -0.85,
+        -1,
         0.7,
       ), // Vị trí đích ở góc dưới bên trái ở màn 2 & 3
       progress,
@@ -74,38 +74,46 @@ class _HomeScreenState extends State<HomeScreen> {
               // --- TRANG 1: Màn hình chào mừng ---
               Container(
                 color: const Color(0xFFFFCBCB),
-                child: Center(
+                child: Row(
                   // Đặt các nút bấm ở bên phải, chừa chỗ trống ở giữa/trái cho nhân vật
-                  child: Padding(
-                    padding: const EdgeInsets.only(left: 400),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        _buildMenuButton(
-                          text: 'Hôm nay ăn gì',
-                          icon: Icons.restaurant_menu,
-                          onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) => TestScreen(),
-                              ),
-                            );
-                          },
-                        ),
-                        const SizedBox(height: 16),
-                        _buildMenuButton(
-                          text: 'Hôm nay chơi gì',
-                          icon: Icons.sports_esports,
-                          onPressed: () => _pageController.animateToPage(
-                            2,
-                            duration: const Duration(milliseconds: 300),
-                            curve: Curves.easeInOut,
-                          ),
-                        ),
-                      ],
+                  children: [
+                    Expanded(
+                      flex: 1,
+                      child: SizedBox.shrink(),
                     ),
-                  ),
+                    Expanded(
+                      child: Padding(
+                        padding: const EdgeInsets.only(left: 0),
+                        child: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            _buildMenuButton(
+                              text: 'Hôm nay ăn gì',
+                              icon: Icons.restaurant_menu,
+                              onPressed: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => TestScreen(),
+                                  ),
+                                );
+                              },
+                            ),
+                            const SizedBox(height: 16),
+                            _buildMenuButton(
+                              text: 'Hôm nay chơi gì',
+                              icon: Icons.sports_esports,
+                              onPressed: () => _pageController.animateToPage(
+                                2,
+                                duration: const Duration(milliseconds: 300),
+                                curve: Curves.easeInOut,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
               ),
 
