@@ -1,0 +1,755 @@
+DANH SÁCH ĐẦY ĐỦ 34 TỈNH/THÀNH PHỐ, CÁC QUẬN/HUYỆN VÀ PHƯỜNG/XÃ TRỰC THUỘC TẠI VIỆT NAM
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Hà Nội
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Ba Đình
+        └── Phường / Xã / Thị trấn: Phường Trúc Bạch
+        └── Phường / Xã / Thị trấn: Phường Điện Biên
+        └── Phường / Xã / Thị trấn: Phường Đội Cấn
+        └── Phường / Xã / Thị trấn: Phường Kim Mã
+        └── Phường / Xã / Thị trấn: Phường Ngọc Hà
+        └── Phường / Xã / Thị trấn: Phường Quán Thánh
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Hoàn Kiếm
+        └── Phường / Xã / Thị trấn: Phường Hàng Bạc
+        └── Phường / Xã / Thị trấn: Phường Hàng Buồm
+        └── Phường / Xã / Thị trấn: Phường Tràng Tiền
+        └── Phường / Xã / Thị trấn: Phường Hàng Gai
+        └── Phường / Xã / Thị trấn: Phường Hàng Đào
+        └── Phường / Xã / Thị trấn: Phường Cửa Nam
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Tây Hồ
+        └── Phường / Xã / Thị trấn: Phường Bưởi
+        └── Phường / Xã / Thị trấn: Phường Thụy Khuê
+        └── Phường / Xã / Thị trấn: Phường Yên Phụ
+        └── Phường / Xã / Thị trấn: Phường Quảng An
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Long Biên
+        └── Phường / Xã / Thị trấn: Phường Bồ Đề
+        └── Phường / Xã / Thị trấn: Phường Gia Thụy
+        └── Phường / Xã / Thị trấn: Phường Long Biên
+        └── Phường / Xã / Thị trấn: Phường Ngọc Lâm
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Cầu Giấy
+        └── Phường / Xã / Thị trấn: Phường Dịch Vọng
+        └── Phường / Xã / Thị trấn: Phường Mai Dịch
+        └── Phường / Xã / Thị trấn: Phường Nghĩa Tân
+        └── Phường / Xã / Thị trấn: Phường Trung Hòa
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Đống Đa
+        └── Phường / Xã / Thị trấn: Phường Cát Linh
+        └── Phường / Xã / Thị trấn: Phường Láng Thượng
+        └── Phường / Xã / Thị trấn: Phường Kim Liên
+        └── Phường / Xã / Thị trấn: Phường Ô Chợ Dừa
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Hai Bà Trưng
+        └── Phường / Xã / Thị trấn: Phường Bách Khoa
+        └── Phường / Xã / Thị trấn: Phường Phố Huế
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Tuy
+        └── Phường / Xã / Thị trấn: Phường Bạch Đằng
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Hoàng Mai
+        └── Phường / Xã / Thị trấn: Phường Đại Kim
+        └── Phường / Xã / Thị trấn: Phường Định Công
+        └── Phường / Xã / Thị trấn: Phường Hoàng Liệt
+        └── Phường / Xã / Thị trấn: Phường Giáp Bát
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Thanh Xuân
+        └── Phường / Xã / Thị trấn: Phường Khương Đình
+        └── Phường / Xã / Thị trấn: Phường Nhân Chính
+        └── Phường / Xã / Thị trấn: Phường Thanh Xuân Bắc
+        └── Phường / Xã / Thị trấn: Phường Phương Liệt
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Sóc Sơn
+        └── Phường / Xã / Thị trấn: Thị trấn Sóc Sơn
+        └── Phường / Xã / Thị trấn: Xã Phù Lỗ
+        └── Phường / Xã / Thị trấn: Xã Mai Đình
+        └── Phường / Xã / Thị trấn: Xã Đông Xuân
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Hồ Chí Minh
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận 1
+        └── Phường / Xã / Thị trấn: Phường Bến Nghé
+        └── Phường / Xã / Thị trấn: Phường Bến Thành
+        └── Phường / Xã / Thị trấn: Phường Cầu Kho
+        └── Phường / Xã / Thị trấn: Phường Đa Kao
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận 3
+        └── Phường / Xã / Thị trấn: Phường Võ Thị Sáu
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận 4
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường 4
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận 5
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường 4
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Thủ Đức
+        └── Phường / Xã / Thị trấn: Phường An Khánh
+        └── Phường / Xã / Thị trấn: Phường Thảo Điền
+        └── Phường / Xã / Thị trấn: Phường Linh Trung
+        └── Phường / Xã / Thị trấn: Phường Hiệp Phú
+        └── Phường / Xã / Thị trấn: Phường Thủ Thiêm
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Củ Chi
+        └── Phường / Xã / Thị trấn: Thị trấn Củ Chi
+        └── Phường / Xã / Thị trấn: Xã Tân Phú Trung
+        └── Phường / Xã / Thị trấn: Xã Phước Vĩnh An
+        └── Phường / Xã / Thị trấn: Xã Nhuận Đức
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Hải Phòng
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Hồng Bàng
+        └── Phường / Xã / Thị trấn: Phường Minh Khai
+        └── Phường / Xã / Thị trấn: Phường Hoàng Văn Thụ
+        └── Phường / Xã / Thị trấn: Phường Sở Dầu
+        └── Phường / Xã / Thị trấn: Phường Quán Toan
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Lê Chân
+        └── Phường / Xã / Thị trấn: Phường An Biên
+        └── Phường / Xã / Thị trấn: Phường Cát Dài
+        └── Phường / Xã / Thị trấn: Phường Lam Sơn
+        └── Phường / Xã / Thị trấn: Phường Trại Cau
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Ngô Quyền
+        └── Phường / Xã / Thị trấn: Phường Lạch Tray
+        └── Phường / Xã / Thị trấn: Phường Cầu Đất
+        └── Phường / Xã / Thị trấn: Phường Máy Tơ
+        └── Phường / Xã / Thị trấn: Phường Đông Khê
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Thủy Nguyên
+        └── Phường / Xã / Thị trấn: Thị trấn Núi Đèo
+        └── Phường / Xã / Thị trấn: Xã Thiên Hương
+        └── Phường / Xã / Thị trấn: Xã Lưu Kiếm
+        └── Phường / Xã / Thị trấn: Xã Kênh Giang
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Đà Nẵng
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Hải Châu
+        └── Phường / Xã / Thị trấn: Phường Thạch Thang
+        └── Phường / Xã / Thị trấn: Phường Thanh Bình
+        └── Phường / Xã / Thị trấn: Phường Hải Châu I
+        └── Phường / Xã / Thị trấn: Phường Nam Dương
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Sơn Trà
+        └── Phường / Xã / Thị trấn: Phường An Hải Bắc
+        └── Phường / Xã / Thị trấn: Phường An Hải Tây
+        └── Phường / Xã / Thị trấn: Phường Thọ Quang
+        └── Phường / Xã / Thị trấn: Phường Nại Hiên Đông
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Thanh Khê
+        └── Phường / Xã / Thị trấn: Phường Thạc Gián
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Trung
+        └── Phường / Xã / Thị trấn: Phường Tân Chính
+        └── Phường / Xã / Thị trấn: Phường Chính Gián
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Hòa Vang
+        └── Phường / Xã / Thị trấn: Xã Hòa Phong
+        └── Phường / Xã / Thị trấn: Xã Hòa Nhơn
+        └── Phường / Xã / Thị trấn: Xã Hòa Phước
+        └── Phường / Xã / Thị trấn: Xã Hòa Sơn
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Cần Thơ
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Ninh Kiều
+        └── Phường / Xã / Thị trấn: Phường Cái Khế
+        └── Phường / Xã / Thị trấn: Phường An Cư
+        └── Phường / Xã / Thị trấn: Phường An Hòa
+        └── Phường / Xã / Thị trấn: Phường Tân An
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Bình Thủy
+        └── Phường / Xã / Thị trấn: Phường Bình Thủy
+        └── Phường / Xã / Thị trấn: Phường Trà An
+        └── Phường / Xã / Thị trấn: Phường Trà Nóc
+        └── Phường / Xã / Thị trấn: Phường Bùi Hữu Nghĩa
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Cái Răng
+        └── Phường / Xã / Thị trấn: Phường Lê Bình
+        └── Phường / Xã / Thị trấn: Phường Hưng Phú
+        └── Phường / Xã / Thị trấn: Phường Hưng Thạnh
+        └── Phường / Xã / Thị trấn: Phường Ba Láng
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Phong Điền
+        └── Phường / Xã / Thị trấn: Thị trấn Phong Điền
+        └── Phường / Xã / Thị trấn: Xã Nhơn Ái
+        └── Phường / Xã / Thị trấn: Xã Giai Xuân
+        └── Phường / Xã / Thị trấn: Xã Tân Thới
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Thành phố Huế
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Vĩnh Ninh
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Ninh
+        └── Phường / Xã / Thị trấn: Phường Phước Vĩnh
+        └── Phường / Xã / Thị trấn: Phường An Cựu
+        └── Phường / Xã / Thị trấn: Phường Trường An
+  └── QUẬN / HUYỆN / THỊ XÃ: Quận Thuận Hóa
+        └── Phường / Xã / Thị trấn: Phường Tây Lộc
+        └── Phường / Xã / Thị trấn: Phường Thuận Lộc
+        └── Phường / Xã / Thị trấn: Phường Phú Hiệp
+        └── Phường / Xã / Thị trấn: Phường Phú Cát
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Phú Vang
+        └── Phường / Xã / Thị trấn: Thị trấn Thuận An
+        └── Phường / Xã / Thị trấn: Xã Phú Mậu
+        └── Phường / Xã / Thị trấn: Xã Phú An
+        └── Phường / Xã / Thị trấn: Xã Vinh Thái
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh An Giang
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Long Xuyên
+        └── Phường / Xã / Thị trấn: Phường Mỹ Long
+        └── Phường / Xã / Thị trấn: Phường Mỹ Bình
+        └── Phường / Xã / Thị trấn: Phường Mỹ Phước
+        └── Phường / Xã / Thị trấn: Phường Mỹ Thới
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Châu Đốc
+        └── Phường / Xã / Thị trấn: Phường Châu Phú A
+        └── Phường / Xã / Thị trấn: Phường Châu Phú B
+        └── Phường / Xã / Thị trấn: Phường Núi Sam
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Mỹ
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Chợ Mới
+        └── Phường / Xã / Thị trấn: Thị trấn Chợ Mới
+        └── Phường / Xã / Thị trấn: Xã Long Điền A
+        └── Phường / Xã / Thị trấn: Xã Long Điền B
+        └── Phường / Xã / Thị trấn: Xã Kiến An
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Bắc Ninh
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Bắc Ninh
+        └── Phường / Xã / Thị trấn: Phường Vệ An
+        └── Phường / Xã / Thị trấn: Phường Đáp Cầu
+        └── Phường / Xã / Thị trấn: Phường Thị Cầu
+        └── Phường / Xã / Thị trấn: Phường Kinh Bắc
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Từ Sơn
+        └── Phường / Xã / Thị trấn: Phường Đông Ngàn
+        └── Phường / Xã / Thị trấn: Phường Đồng Kỵ
+        └── Phường / Xã / Thị trấn: Phường Trang Hạ
+        └── Phường / Xã / Thị trấn: Phường Đình Bảng
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Tiên Du
+        └── Phường / Xã / Thị trấn: Thị trấn Lim
+        └── Phường / Xã / Thị trấn: Xã Nội Du
+        └── Phường / Xã / Thị trấn: Xã Liên Bão
+        └── Phường / Xã / Thị trấn: Xã Hoàn Sơn
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Cà Mau
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Cà Mau
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 5
+        └── Phường / Xã / Thị trấn: Phường 7
+        └── Phường / Xã / Thị trấn: Phường Tân Thành
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện U Minh
+        └── Phường / Xã / Thị trấn: Thị trấn U Minh
+        └── Phường / Xã / Thị trấn: Xã Khánh An
+        └── Phường / Xã / Thị trấn: Xã Khánh Lâm
+        └── Phường / Xã / Thị trấn: Xã Nguyễn Phích
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Năm Căn
+        └── Phường / Xã / Thị trấn: Thị trấn Năm Căn
+        └── Phường / Xã / Thị trấn: Xã Hâm Rơi
+        └── Phường / Xã / Thị trấn: Xã Đất Mới
+        └── Phường / Xã / Thị trấn: Xã Tam Giang
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Cao Bằng
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Cao Bằng
+        └── Phường / Xã / Thị trấn: Phường Hợp Giang
+        └── Phường / Xã / Thị trấn: Phường Sông Hiến
+        └── Phường / Xã / Thị trấn: Phường Tân Giang
+        └── Phường / Xã / Thị trấn: Phường Duyệt Trung
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Trà Lĩnh
+        └── Phường / Xã / Thị trấn: Thị trấn Trà Lĩnh
+        └── Phường / Xã / Thị trấn: Xã Cao Chương
+        └── Phường / Xã / Thị trấn: Xã Tri Phương
+        └── Phường / Xã / Thị trấn: Xã Quang Hán
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Quảng Hòa
+        └── Phường / Xã / Thị trấn: Thị trấn Quảng Uyên
+        └── Phường / Xã / Thị trấn: Xã Cách Linh
+        └── Phường / Xã / Thị trấn: Xã Đại Tiến
+        └── Phường / Xã / Thị trấn: Xã Tiên Thành
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Đắk Lắk
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Buôn Ma Thuột
+        └── Phường / Xã / Thị trấn: Phường Tân Lợi
+        └── Phường / Xã / Thị trấn: Phường Thắng Lợi
+        └── Phường / Xã / Thị trấn: Phường Tân An
+        └── Phường / Xã / Thị trấn: Phường Ea Tam
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Buôn Hồ
+        └── Phường / Xã / Thị trấn: Phường An Bình
+        └── Phường / Xã / Thị trấn: Phường An Lạc
+        └── Phường / Xã / Thị trấn: Phường Đạt Hiếu
+        └── Phường / Xã / Thị trấn: Phường Thống Nhất
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Cư M'gar
+        └── Phường / Xã / Thị trấn: Thị trấn Quảng Phú
+        └── Phường / Xã / Thị trấn: Xã Ea Kpam
+        └── Phường / Xã / Thị trấn: Xã Cư Dliê M'nông
+        └── Phường / Xã / Thị trấn: Xã Ea Drơng
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Điện Biên
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Điện Biên Phủ
+        └── Phường / Xã / Thị trấn: Phường Mường Thanh
+        └── Phường / Xã / Thị trấn: Phường Tân Thanh
+        └── Phường / Xã / Thị trấn: Phường Nam Thanh
+        └── Phường / Xã / Thị trấn: Phường Him Lam
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Mường Lay
+        └── Phường / Xã / Thị trấn: Phường Sới Luông
+        └── Phường / Xã / Thị trấn: Phường Na Lay
+        └── Phường / Xã / Thị trấn: Xã Lay Nưa
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Điện Biên
+        └── Phường / Xã / Thị trấn: Xã Thanh Hưng
+        └── Phường / Xã / Thị trấn: Xã Noong Hẹt
+        └── Phường / Xã / Thị trấn: Xã Pom Lót
+        └── Phường / Xã / Thị trấn: Xã Thanh Chăn
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Đồng Nai
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Biên Hòa
+        └── Phường / Xã / Thị trấn: Phường Quyết Thắng
+        └── Phường / Xã / Thị trấn: Phường Trung Dũng
+        └── Phường / Xã / Thị trấn: Phường Thanh Bình
+        └── Phường / Xã / Thị trấn: Phường Tam Hiệp
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Long Khánh
+        └── Phường / Xã / Thị trấn: Phường Xuân An
+        └── Phường / Xã / Thị trấn: Phường Xuân Bình
+        └── Phường / Xã / Thị trấn: Phường Xuân Hòa
+        └── Phường / Xã / Thị trấn: Phường Suối Tre
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Long Thành
+        └── Phường / Xã / Thị trấn: Thị trấn Long Thành
+        └── Phường / Xã / Thị trấn: Xã Long An
+        └── Phường / Xã / Thị trấn: Xã Long Phước
+        └── Phường / Xã / Thị trấn: Xã Bình Sơn
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Đồng Tháp
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Cao Lãnh
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường Mỹ Phú
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Sa Đéc
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường An Hòa
+        └── Phường / Xã / Thị trấn: Phường Tân Quy Đông
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Lai Vung
+        └── Phường / Xã / Thị trấn: Thị trấn Lai Vung
+        └── Phường / Xã / Thị trấn: Xã Phong Hòa
+        └── Phường / Xã / Thị trấn: Xã Long Hậu
+        └── Phường / Xã / Thị trấn: Xã Tân Dương
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Gia Lai
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Pleiku
+        └── Phường / Xã / Thị trấn: Phường Tây Sơn
+        └── Phường / Xã / Thị trấn: Phường Hội Thương
+        └── Phường / Xã / Thị trấn: Phường Hoa Lư
+        └── Phường / Xã / Thị trấn: Phường Yên Đổ
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã An Khê
+        └── Phường / Xã / Thị trấn: Phường Tây Sơn
+        └── Phường / Xã / Thị trấn: Phường An Phước
+        └── Phường / Xã / Thị trấn: Phường Ngô Mây
+        └── Phường / Xã / Thị trấn: Phường An Tân
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Chư Păh
+        └── Phường / Xã / Thị trấn: Thị trấn Phú Hòa
+        └── Phường / Xã / Thị trấn: Xã Chư Đăr
+        └── Phường / Xã / Thị trấn: Xã Ia Khươl
+        └── Phường / Xã / Thị trấn: Xã Nghĩa Hưng
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Hà Tĩnh
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Hà Tĩnh
+        └── Phường / Xã / Thị trấn: Phường Bắc Hà
+        └── Phường / Xã / Thị trấn: Phường Nam Hà
+        └── Phường / Xã / Thị trấn: Phường Tân Giang
+        └── Phường / Xã / Thị trấn: Phường Đại Nài
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Hồng Lĩnh
+        └── Phường / Xã / Thị trấn: Phường Bắc Hồng
+        └── Phường / Xã / Thị trấn: Phường Nam Hồng
+        └── Phường / Xã / Thị trấn: Phường Đức Thuận
+        └── Phường / Xã / Thị trấn: Phường Đậu Liêu
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Nghi Xuân
+        └── Phường / Xã / Thị trấn: Thị trấn Tiên Điền
+        └── Phường / Xã / Thị trấn: Xã Xuân Hải
+        └── Phường / Xã / Thị trấn: Xã Xuân Hội
+        └── Phường / Xã / Thị trấn: Xã Cổ Đạm
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Hưng Yên
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Hưng Yên
+        └── Phường / Xã / Thị trấn: Phường Hiến Nam
+        └── Phường / Xã / Thị trấn: Phường Lê Lợi
+        └── Phường / Xã / Thị trấn: Phường An Tảo
+        └── Phường / Xã / Thị trấn: Phường Lam Sơn
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Mỹ Hào
+        └── Phường / Xã / Thị trấn: Phường Bần Yên Nhân
+        └── Phường / Xã / Thị trấn: Phường Nhân Hòa
+        └── Phường / Xã / Thị trấn: Phường Dị Sử
+        └── Phường / Xã / Thị trấn: Phường Bạch Sam
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Văn Lâm
+        └── Phường / Xã / Thị trấn: Thị trấn Như Quỳnh
+        └── Phường / Xã / Thị trấn: Xã Lạc Hồng
+        └── Phường / Xã / Thị trấn: Xã Chỉ Đạo
+        └── Phường / Xã / Thị trấn: Xã Trưng Trắc
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Khánh Hòa
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Nha Trang
+        └── Phường / Xã / Thị trấn: Phường Lộc Thọ
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Thọ
+        └── Phường / Xã / Thị trấn: Phường Phước Tiến
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Hải
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Cam Ranh
+        └── Phường / Xã / Thị trấn: Phường Cam Linh
+        └── Phường / Xã / Thị trấn: Phường Cam Lộc
+        └── Phường / Xã / Thị trấn: Phường Cam Lợi
+        └── Phường / Xã / Thị trấn: Phường Cam Nghĩa
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Diên Khánh
+        └── Phường / Xã / Thị trấn: Thị trấn Diên Khánh
+        └── Phường / Xã / Thị trấn: Xã Diên An
+        └── Phường / Xã / Thị trấn: Xã Diên Toàn
+        └── Phường / Xã / Thị trấn: Xã Diên Sơn
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Lai Châu
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Lai Châu
+        └── Phường / Xã / Thị trấn: Phường Quyết Tâm
+        └── Phường / Xã / Thị trấn: Phường Quyết Thắng
+        └── Phường / Xã / Thị trấn: Phường Đoàn Kết
+        └── Phường / Xã / Thị trấn: Phường Tân Phong
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Tam Đường
+        └── Phường / Xã / Thị trấn: Thị trấn Tam Đường
+        └── Phường / Xã / Thị trấn: Xã Bản Hon
+        └── Phường / Xã / Thị trấn: Xã Nùng Nàng
+        └── Phường / Xã / Thị trấn: Xã Thèn Sin
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Phong Thổ
+        └── Phường / Xã / Thị trấn: Thị trấn Phong Thổ
+        └── Phường / Xã / Thị trấn: Xã Hoang Thèn
+        └── Phường / Xã / Thị trấn: Xã Mường So
+        └── Phường / Xã / Thị trấn: Xã Sin Súi Hồ
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Lâm Đồng
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Đà Lạt
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường 4
+        └── Phường / Xã / Thị trấn: Phường 10
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Bảo Lộc
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường B'Lao
+        └── Phường / Xã / Thị trấn: Phường Lộc Sơn
+        └── Phường / Xã / Thị trấn: Phường Lộc Phát
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Đức Trọng
+        └── Phường / Xã / Thị trấn: Thị trấn Liên Nghĩa
+        └── Phường / Xã / Thị trấn: Xã Liên Hiệp
+        └── Phường / Xã / Thị trấn: Xã Ninh Gia
+        └── Phường / Xã / Thị trấn: Xã Tà Năng
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Lạng Sơn
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Lạng Sơn
+        └── Phường / Xã / Thị trấn: Phường Hoàng Văn Thụ
+        └── Phường / Xã / Thị trấn: Phường Chi Lăng
+        └── Phường / Xã / Thị trấn: Phường Tam Thanh
+        └── Phường / Xã / Thị trấn: Phường Vĩnh Trại
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Cao Lộc
+        └── Phường / Xã / Thị trấn: Thị trấn Cao Lộc
+        └── Phường / Xã / Thị trấn: Xã Hợp Thành
+        └── Phường / Xã / Thị trấn: Xã Cao Lộc
+        └── Phường / Xã / Thị trấn: Xã Thạch Hợp
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Chi Lăng
+        └── Phường / Xã / Thị trấn: Thị trấn Đồng Mỏ
+        └── Phường / Xã / Thị trấn: Xã Quan Sơn
+        └── Phường / Xã / Thị trấn: Xã Vân An
+        └── Phường / Xã / Thị trấn: Xã Chi Lăng
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Lào Cai
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Lào Cai
+        └── Phường / Xã / Thị trấn: Phường Cốc Lếu
+        └── Phường / Xã / Thị trấn: Phường Lào Cai
+        └── Phường / Xã / Thị trấn: Phường Duyên Hải
+        └── Phường / Xã / Thị trấn: Phường Kim Tân
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Sa Pa
+        └── Phường / Xã / Thị trấn: Phường Sa Pa
+        └── Phường / Xã / Thị trấn: Phường Ô Quý Hồ
+        └── Phường / Xã / Thị trấn: Phường Cầu Mây
+        └── Phường / Xã / Thị trấn: Xã Tả Phìn
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Bát Xát
+        └── Phường / Xã / Thị trấn: Thị trấn Bát Xát
+        └── Phường / Xã / Thị trấn: Xã Bản Xèo
+        └── Phường / Xã / Thị trấn: Xã Trịnh Tường
+        └── Phường / Xã / Thị trấn: Xã Y Tý
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Nghệ An
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Vinh
+        └── Phường / Xã / Thị trấn: Phường Lê Mao
+        └── Phường / Xã / Thị trấn: Phường Quang Trung
+        └── Phường / Xã / Thị trấn: Phường Hưng Bình
+        └── Phường / Xã / Thị trấn: Phường Bến Thủy
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Cửa Lò
+        └── Phường / Xã / Thị trấn: Phường Thu Thủy
+        └── Phường / Xã / Thị trấn: Phường Nghi Thu
+        └── Phường / Xã / Thị trấn: Phường Nghi Hương
+        └── Phường / Xã / Thị trấn: Phường Nghi Hải
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Diễn Châu
+        └── Phường / Xã / Thị trấn: Thị trấn Diễn Châu
+        └── Phường / Xã / Thị trấn: Xã Diễn Thành
+        └── Phường / Xã / Thị trấn: Xã Diễn Kỷ
+        └── Phường / Xã / Thị trấn: Xã Diễn Hoa
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Ninh Bình
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Ninh Bình
+        └── Phường / Xã / Thị trấn: Phường Đông Thành
+        └── Phường / Xã / Thị trấn: Phường Tân Thành
+        └── Phường / Xã / Thị trấn: Phường Vân Giang
+        └── Phường / Xã / Thị trấn: Phường Nam Bình
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Tam Điệp
+        └── Phường / Xã / Thị trấn: Phường Trung Sơn
+        └── Phường / Xã / Thị trấn: Phường Bắc Sơn
+        └── Phường / Xã / Thị trấn: Phường Nam Sơn
+        └── Phường / Xã / Thị trấn: Phường Yên Bình
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Hoa Lư
+        └── Phường / Xã / Thị trấn: Thị trấn Thiên Tôn
+        └── Phường / Xã / Thị trấn: Xã Ninh Hải
+        └── Phường / Xã / Thị trấn: Xã Ninh Hòa
+        └── Phường / Xã / Thị trấn: Xã Ninh Vân
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Phú Thọ
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Việt Trì
+        └── Phường / Xã / Thị trấn: Phường Bạch Hạc
+        └── Phường / Xã / Thị trấn: Phường Tiên Cát
+        └── Phường / Xã / Thị trấn: Phường Dữu Lâu
+        └── Phường / Xã / Thị trấn: Phường Vân Phú
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Phú Thọ
+        └── Phường / Xã / Thị trấn: Phường Âu Cơ
+        └── Phường / Xã / Thị trấn: Phường Hùng Vương
+        └── Phường / Xã / Thị trấn: Phường Phong Châu
+        └── Phường / Xã / Thị trấn: Xã Hà Lộc
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Lâm Thao
+        └── Phường / Xã / Thị trấn: Thị trấn Lâm Thao
+        └── Phường / Xã / Thị trấn: Xã Thạch Sơn
+        └── Phường / Xã / Thị trấn: Xã Cao Xá
+        └── Phường / Xã / Thị trấn: Xã Tiên Kiên
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Quảng Ngãi
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Quảng Ngãi
+        └── Phường / Xã / Thị trấn: Phường Lê Hồng Phong
+        └── Phường / Xã / Thị trấn: Phường Trần Hưng Đạo
+        └── Phường / Xã / Thị trấn: Phường Nghĩa Lộ
+        └── Phường / Xã / Thị trấn: Phường Trương Quang Trường
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Bình Sơn
+        └── Phường / Xã / Thị trấn: Thị trấn Châu Oanh
+        └── Phường / Xã / Thị trấn: Xã Bình Chánh
+        └── Phường / Xã / Thị trấn: Xã Bình Thạnh
+        └── Phường / Xã / Thị trấn: Xã Bình Đông
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Sơn Tịnh
+        └── Phường / Xã / Thị trấn: Xã Tịnh Hà
+        └── Phường / Xã / Thị trấn: Xã Tịnh Thọ
+        └── Phường / Xã / Thị trấn: Xã Tịnh Ấn Tây
+        └── Phường / Xã / Thị trấn: Xã Tịnh Phong
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Quảng Ninh
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Hạ Long
+        └── Phường / Xã / Thị trấn: Phường Bạch Đằng
+        └── Phường / Xã / Thị trấn: Phường Hồng Gai
+        └── Phường / Xã / Thị trấn: Phường Hòn Gai
+        └── Phường / Xã / Thị trấn: Phường Bãi Cháy
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Móng Cái
+        └── Phường / Xã / Thị trấn: Phường Ka Long
+        └── Phường / Xã / Thị trấn: Phường Trần Phú
+        └── Phường / Xã / Thị trấn: Phường Ninh Dương
+        └── Phường / Xã / Thị trấn: Phường Hải Hòa
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Vân Đồn
+        └── Phường / Xã / Thị trấn: Thị trấn Cái Rồng
+        └── Phường / Xã / Thị trấn: Xã Quan Lạn
+        └── Phường / Xã / Thị trấn: Xã Minh Châu
+        └── Phường / Xã / Thị trấn: Xã Bản Sen
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Quảng Trị
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Đông Hà
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường 5
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Quảng Trị
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường An Đôn
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Hải Lăng
+        └── Phường / Xã / Thị trấn: Thị trấn Diên Sanh
+        └── Phường / Xã / Thị trấn: Xã Hải Chánh
+        └── Phường / Xã / Thị trấn: Xã Hải Quế
+        └── Phường / Xã / Thị trấn: Xã Hải Thọ
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Sơn La
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Sơn La
+        └── Phường / Xã / Thị trấn: Phường Tô Hiệu
+        └── Phường / Xã / Thị trấn: Phường Quyết Thắng
+        └── Phường / Xã / Thị trấn: Phường Chiềng Cơi
+        └── Phường / Xã / Thị trấn: Phường Chiềng Lề
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Mộc Châu
+        └── Phường / Xã / Thị trấn: Thị trấn Mộc Châu
+        └── Phường / Xã / Thị trấn: Xã Chiềng Hề
+        └── Phường / Xã / Thị trấn: Xã Mường Sang
+        └── Phường / Xã / Thị trấn: Xã Đông Sang
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Mai Sơn
+        └── Phường / Xã / Thị trấn: Thị trấn Hát Lót
+        └── Phường / Xã / Thị trấn: Xã Chiềng Mung
+        └── Phường / Xã / Thị trấn: Xã Hát Lót
+        └── Phường / Xã / Thị trấn: Xã Cò Nòi
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Tây Ninh
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Tây Ninh
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường Ninh Sơn
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Hòa Thành
+        └── Phường / Xã / Thị trấn: Phường Long Hoa
+        └── Phường / Xã / Thị trấn: Phường Hiệp Tân
+        └── Phường / Xã / Thị trấn: Xã Long Thành Bắc
+        └── Phường / Xã / Thị trấn: Xã Long Thành Nam
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Trảng Bàng
+        └── Phường / Xã / Thị trấn: Thị trấn Trảng Bàng
+        └── Phường / Xã / Thị trấn: Xã An Tịnh
+        └── Phường / Xã / Thị trấn: Xã Đôn Thuận
+        └── Phường / Xã / Thị trấn: Xã Gia Lộc
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Thái Nguyên
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Thái Nguyên
+        └── Phường / Xã / Thị trấn: Phường Trưng Vương
+        └── Phường / Xã / Thị trấn: Phường Phan Đình Phùng
+        └── Phường / Xã / Thị trấn: Phường Đồng Bẩm
+        └── Phường / Xã / Thị trấn: Phường Túc Duyên
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Sông Công
+        └── Phường / Xã / Thị trấn: Phường Bách Quang
+        └── Phường / Xã / Thị trấn: Phường Mỏ Chè
+        └── Phường / Xã / Thị trấn: Phường Cải Đan
+        └── Phường / Xã / Thị trấn: Phường Châu Sơn
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Đại Từ
+        └── Phường / Xã / Thị trấn: Thị trấn Hùng Sơn
+        └── Phường / Xã / Thị trấn: Xã Ký Phú
+        └── Phường / Xã / Thị trấn: Xã Văn Yên
+        └── Phường / Xã / Thị trấn: Xã Hoàng Nông
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Thanh Hóa
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Thanh Hóa
+        └── Phường / Xã / Thị trấn: Phường Ba Đình
+        └── Phường / Xã / Thị trấn: Phường Điện Biên
+        └── Phường / Xã / Thị trấn: Phường Lam Sơn
+        └── Phường / Xã / Thị trấn: Phường Đông Thọ
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Sầm Sơn
+        └── Phường / Xã / Thị trấn: Phường Trường Sơn
+        └── Phường / Xã / Thị trấn: Phường Bắc Sơn
+        └── Phường / Xã / Thị trấn: Phường Quảng Côn
+        └── Phường / Xã / Thị trấn: Phường Quảng Tiến
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Hoằng Hóa
+        └── Phường / Xã / Thị trấn: Thị trấn Bút Sơn
+        └── Phường / Xã / Thị trấn: Xã Hoằng Tiến
+        └── Phường / Xã / Thị trấn: Xã Hoằng Hải
+        └── Phường / Xã / Thị trấn: Xã Hoằng Thanh
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Tuyên Quang
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Tuyên Quang
+        └── Phường / Xã / Thị trấn: Phường Tân Quang
+        └── Phường / Xã / Thị trấn: Phường Phan Thiết
+        └── Phường / Xã / Thị trấn: Phường Minh Xuân
+        └── Phường / Xã / Thị trấn: Phường Ỷ La
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Chiêm Hóa
+        └── Phường / Xã / Thị trấn: Thị trấn Vĩnh Lộc
+        └── Phường / Xã / Thị trấn: Xã Trung Hà
+        └── Phường / Xã / Thị trấn: Xã Hòa An
+        └── Phường / Xã / Thị trấn: Xã Vinh Quang
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Sơn Dương
+        └── Phường / Xã / Thị trấn: Thị trấn Sơn Dương
+        └── Phường / Xã / Thị trấn: Xã Tú Thịnh
+        └── Phường / Xã / Thị trấn: Xã Thiện Kế
+        └── Phường / Xã / Thị trấn: Xã Phúc Ninh
+
+==========================================================================================
+
+TỈNH / THÀNH PHỐ: Tỉnh Vĩnh Long
+------------------------------------------------------------
+  └── QUẬN / HUYỆN / THỊ XÃ: Thành phố Vĩnh Long
+        └── Phường / Xã / Thị trấn: Phường 1
+        └── Phường / Xã / Thị trấn: Phường 2
+        └── Phường / Xã / Thị trấn: Phường 3
+        └── Phường / Xã / Thị trấn: Phường 4
+        └── Phường / Xã / Thị trấn: Phường 5
+  └── QUẬN / HUYỆN / THỊ XÃ: Thị xã Bình Minh
+        └── Phường / Xã / Thị trấn: Phường Cái Vồn
+        └── Phường / Xã / Thị trấn: Phường Thành Phước
+        └── Phường / Xã / Thị trấn: Phường Đông Thuận
+        └── Phường / Xã / Thị trấn: Xã Thuận An
+  └── QUẬN / HUYỆN / THỊ XÃ: Huyện Long Hồ
+        └── Phường / Xã / Thị trấn: Thị trấn Long Hồ
+        └── Phường / Xã / Thị trấn: Xã An Bình
+        └── Phường / Xã / Thị trấn: Xã Long An
+        └── Phường / Xã / Thị trấn: Xã Phú Quới
+
+==========================================================================================
+
