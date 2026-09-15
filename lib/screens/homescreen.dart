@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'dart:ui';
 
-import 'package:unknow_application/screens/test_screen.dart'; // Dùng cho hàm lerpDouble
+import 'package:unknow_application/screens/test_screen.dart';
+import 'package:unknow_application/screens/food_gacha_screen.dart'; // Dùng cho hàm lerpDouble
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -48,11 +49,11 @@ class _HomeScreenState extends State<HomeScreen> {
     double progress = _pageValue.clamp(0.0, 1.0);
 
     Alignment currentAlignment = Alignment.lerp(
-      const Alignment(-1, 0.2), // Vị trí ban đầu ở màn 1 sang sát bên trái ngay từ trang đầu
       const Alignment(
         -1,
-        0.7,
-      ), // Vị trí đích ở góc dưới bên trái ở màn 2 & 3
+        0.2,
+      ), // Vị trí ban đầu ở màn 1 sang sát bên trái ngay từ trang đầu
+      const Alignment(-1, 0.7), // Vị trí đích ở góc dưới bên trái ở màn 2 & 3
       progress,
     )!;
 
@@ -77,10 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Row(
                   // Đặt các nút bấm ở bên phải, chừa chỗ trống ở giữa/trái cho nhân vật
                   children: [
-                    Expanded(
-                      flex: 1,
-                      child: SizedBox.shrink(),
-                    ),
+                    Expanded(flex: 1, child: SizedBox.shrink()),
                     Expanded(
                       child: Padding(
                         padding: const EdgeInsets.only(left: 0),
@@ -94,7 +92,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => TestScreen(),
+                                    builder: (context) => FoodGachaScreen(),
                                   ),
                                 );
                               },
@@ -103,11 +101,14 @@ class _HomeScreenState extends State<HomeScreen> {
                             _buildMenuButton(
                               text: 'Hôm nay chơi gì',
                               icon: Icons.sports_esports,
-                              onPressed: () => _pageController.animateToPage(
-                                2,
-                                duration: const Duration(milliseconds: 300),
-                                curve: Curves.easeInOut,
-                              ),
+                              onPressed: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => TestScreen(),
+                                  ),
+                                );
+                              },
                             ),
                           ],
                         ),
@@ -121,14 +122,16 @@ class _HomeScreenState extends State<HomeScreen> {
               _buildFeaturePage(
                 title: 'Hôm nay ăn gì?',
                 demoColor: Colors.orange.shade200,
-                demoText: '🎰 [Khung Quay Đồ Ăn]',
+                demoScreenUrl: 'assets/images/hom_nay_an_gi_screen.jpg',
+                // onTap();
               ),
 
               // --- TRANG 3: Màn hình Hôm nay chơi gì ---
               _buildFeaturePage(
                 title: 'Hôm nay chơi gì?',
                 demoColor: Colors.purple.shade200,
-                demoText: '🎮 [Khung Quay Trò Chơi]',
+                demoScreenUrl: 'assets/images/hom_nay_an_gi_screen.jpg',
+                // onTap();
               ),
             ],
           ),
@@ -137,10 +140,10 @@ class _HomeScreenState extends State<HomeScreen> {
           // Lớp này nằm đè lên trên PageView và dịch chuyển mượt mà theo biến progress
           AnimatedContainer(
             duration: const Duration(
-              milliseconds: 50,
+              milliseconds: 100,
             ), // Phản hồi cực nhanh theo frame cuộn
             alignment: currentAlignment,
-            padding: const EdgeInsets.symmetric(horizontal: 24),
+            padding: const EdgeInsets.symmetric(horizontal: 10),
             child: GestureDetector(
               onTap: () {
                 // Nếu đang ở màn 2 hoặc 3, bấm vào nhân vật sẽ thực hiện hành động
@@ -148,7 +151,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   print('Đã bấm vào nhân vật để mở tính năng!');
                 }
               },
-              child: Row(
+              child: Column(
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
@@ -187,6 +190,39 @@ class _HomeScreenState extends State<HomeScreen> {
                               )
                             : const SizedBox.shrink(),
                       ),
+                      // Khi đã sang trang 2 hoặc 3, hiện thêm bong bóng nhỏ hoặc lời nhắc cạnh nhân vật ở góc trái
+                      if (progress > 0.8) ...[
+                        const SizedBox(width: 0),
+                        FadeTransition(
+                          opacity: AlwaysStoppedAnimation(progress),
+                          child: Container(
+                            margin: const EdgeInsets.only(bottom: 0),
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 8,
+                              vertical: 8,
+                            ),
+                            decoration: BoxDecoration(
+                              color: Colors.white,
+                              borderRadius: BorderRadius.circular(16),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 4,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
+                            ),
+                            child: const Text(
+                              'Gacha tại đây 👉',
+                              style: TextStyle(
+                                fontSize: 12,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.deepPurple,
+                              ),
+                            ),
+                          ),
+                        ),
+                      ],
                       Image.asset(
                         'assets/images/thinking.png',
                         width: currentImageWidth,
@@ -195,40 +231,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ],
                   ),
-
-                  // Khi đã sang trang 2 hoặc 3, hiện thêm bong bóng nhỏ hoặc lời nhắc cạnh nhân vật ở góc trái
-                  if (progress > 0.8) ...[
-                    const SizedBox(width: 8),
-                    FadeTransition(
-                      opacity: AlwaysStoppedAnimation(progress),
-                      child: Container(
-                        margin: const EdgeInsets.only(bottom: 30),
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 12,
-                          vertical: 8,
-                        ),
-                        decoration: BoxDecoration(
-                          color: Colors.white,
-                          borderRadius: BorderRadius.circular(16),
-                          boxShadow: [
-                            BoxShadow(
-                              color: Colors.black.withOpacity(0.1),
-                              blurRadius: 4,
-                              offset: const Offset(0, 2),
-                            ),
-                          ],
-                        ),
-                        child: const Text(
-                          'Chọn đi bạn ơi! 👉',
-                          style: TextStyle(
-                            fontSize: 12,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.deepPurple,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
                 ],
               ),
             ),
@@ -242,7 +244,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildFeaturePage({
     required String title,
     required Color demoColor,
-    required String demoText,
+    required String demoScreenUrl,
   }) {
     return Container(
       color: const Color(0xFFFFCBCB),
@@ -266,7 +268,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 left: 100,
               ), // Chừa chỗ trống ở góc trái bên dưới cho nhân vật đứng
               decoration: BoxDecoration(
-                color: demoColor,
+                image: DecorationImage(
+                  image: AssetImage(demoScreenUrl),
+                  fit: BoxFit.cover,
+                ),
                 borderRadius: BorderRadius.circular(24),
                 boxShadow: [
                   BoxShadow(
@@ -275,16 +280,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     offset: const Offset(0, 4),
                   ),
                 ],
-              ),
-              child: Center(
-                child: Text(
-                  demoText,
-                  style: const TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
               ),
             ),
           ),
