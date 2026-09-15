@@ -1,2 +1,1 @@
-create database of food
-    product sẽ có những tham số sau
+code responsive với layoutbuilder

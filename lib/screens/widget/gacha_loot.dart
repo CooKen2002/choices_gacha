@@ -1,14 +1,13 @@
 import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:unknow_application/models/product.dart';
+import 'package:unknow_application/utils/asset_helper.dart';
 
 class GachaLootWidget extends StatefulWidget {
   final List<Product> items; // Danh sách các phần tử truyền vào tùy biến
 
-  const GachaLootWidget({
-    super.key,
-    required this.items,
-  });
+  const GachaLootWidget({super.key, required this.items});
 
   @override
   State<GachaLootWidget> createState() => _GachaLootWidgetState();
@@ -17,11 +16,28 @@ class GachaLootWidget extends StatefulWidget {
 class _GachaLootWidgetState extends State<GachaLootWidget> {
   bool startGacha = false;
   late final ScrollController _scrollController;
-  
+
   // Chiều rộng của mỗi thẻ sản phẩm (Item card width)
   static const double itemWidth = 140.0;
   // Số lượng lần nhân bản danh sách để tạo cuộn dài
-  static const int repeatCount = 50; 
+  static const int repeatCount = 50;
+  Color _rarityColor(String rarity) {
+    switch (rarity) {
+      case 'Legendary':
+        return Colors.orange;
+      case 'Exotic':
+        return Colors.redAccent;
+      case 'Epic':
+        return Colors.purple;
+      case 'Rare':
+        return Colors.blue;
+      case 'Uncommon':
+        return Colors.green;
+      case 'Common':
+      default:
+        return Colors.grey;
+    }
+  }
 
   @override
   void initState() {
@@ -46,34 +62,38 @@ class _GachaLootWidgetState extends State<GachaLootWidget> {
     final random = Random();
     // 1. Chọn ngẫu nhiên một phần tử trúng thưởng ở vòng gần cuối
     int winningIndexInOriginal = random.nextInt(widget.items.length);
-    
+
     // 2. Tính toán vị trí dừng chính xác để item trúng thưởng nằm đúng ở giữa màn hình
     // Đặt item trúng thưởng ở cụm khoảng giữa của danh sách nhân bản
     int targetCluster = repeatCount ~/ 2;
-    int targetIndex = (targetCluster * widget.items.length) + winningIndexInOriginal;
+    int targetIndex =
+        (targetCluster * widget.items.length) + winningIndexInOriginal;
 
     // Lấy kích thước màn hình để tính khoảng cách bù trừ căn giữa vạch vàng
     double screenWidth = MediaQuery.of(context).size.width;
-    double targetOffset = (targetIndex * itemWidth) - (screenWidth / 2) + (itemWidth / 2);
+    double targetOffset =
+        (targetIndex * itemWidth) - (screenWidth / 2) + (itemWidth / 2);
 
     // Thêm một chút random lệch nhỏ sang trái/phải bên trong item tạo cảm giác tự nhiên
     targetOffset += (random.nextDouble() - 0.5) * (itemWidth * 0.4);
 
     // 3. Thực hiện cuộn mượt mà với hiệu ứng giảm tốc dần (easeOutCubic)
-    _scrollController.animateTo(
-      targetOffset,
-      duration: const Duration(seconds: 4), // Thời gian quay (4 giây)
-      curve: Curves.easeOutCubic, // Hiệu ứng hãm phanh chậm dần chuẩn CS:GO
-    ).then((_) {
-      // Khi quay xong
-      setState(() {
-        startGacha = false;
-      });
-      
-      // Hiển thị kết quả món quà trúng thưởng
-      Product winningProduct = widget.items[winningIndexInOriginal];
-      _showWinningDialog(winningProduct);
-    });
+    _scrollController
+        .animateTo(
+          targetOffset,
+          duration: const Duration(seconds: 4), // Thời gian quay (4 giây)
+          curve: Curves.easeOutCubic, // Hiệu ứng hãm phanh chậm dần chuẩn CS:GO
+        )
+        .then((_) {
+          // Khi quay xong
+          setState(() {
+            startGacha = false;
+          });
+
+          // Hiển thị kết quả món quà trúng thưởng
+          Product winningProduct = widget.items[winningIndexInOriginal];
+          _showWinningDialog(winningProduct);
+        });
   }
 
   // Hộp thoại thông báo khi quay trúng item
@@ -85,10 +105,26 @@ class _GachaLootWidgetState extends State<GachaLootWidget> {
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset(product.imageUrl, width: 100, height: 100, fit: BoxFit.contain),
+            Image.asset(
+              AssetHelper.image(product.imageFileName),
+              width: 100,
+              height: 100,
+              fit: BoxFit.contain,
+            ),
             const SizedBox(height: 10),
-            Text(product.name, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('Độ hiếm: ${product.rarity}', style: const TextStyle(color: Colors.deepPurple)),
+            Text(
+              product.name,
+              style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
+            Text(
+              'Độ hiếm: ${product.rarity}',
+              style: TextStyle(
+                color: _rarityColor(
+                  product.rarity,
+                ), // ✅ đồng bộ màu theo độ hiếm
+                fontWeight: FontWeight.bold,
+              ),
+            ),
           ],
         ),
         actions: [
@@ -113,9 +149,7 @@ class _GachaLootWidgetState extends State<GachaLootWidget> {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         // Tiêu đề thay cho AppBar, để nền xuyên thấu
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 20),  
-        ),
+        Padding(padding: const EdgeInsets.symmetric(vertical: 20)),
 
         // BĂNG CHUYỀN QUAY HÒM
         SizedBox(
@@ -150,7 +184,7 @@ class _GachaLootWidgetState extends State<GachaLootWidget> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Image.asset(
-                            product.imageUrl,
+                            AssetHelper.image(product.imageFileName),
                             width: 80,
                             height: 80,
                             fit: BoxFit.contain,
@@ -176,9 +210,7 @@ class _GachaLootWidgetState extends State<GachaLootWidget> {
                             height: 4,
                             width: 60,
                             decoration: BoxDecoration(
-                              color: product.rarity == 'Huyền thoại'
-                                  ? Colors.purple
-                                  : Colors.blue,
+                              color: _rarityColor(product.rarity),
                               borderRadius: BorderRadius.circular(2),
                             ),
                           ),

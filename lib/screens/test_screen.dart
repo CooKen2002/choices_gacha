@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:unknow_application/models/product.dart';
 import 'package:unknow_application/screens/widget/gacha_loot.dart';
+import 'package:unknow_application/utils/asset_helper.dart';
+
 
 class TestScreen extends StatefulWidget {
   const TestScreen({super.key});
@@ -11,45 +13,46 @@ class TestScreen extends StatefulWidget {
 
 class _TestScreenState extends State<TestScreen> {
   // 1. Chuẩn bị danh sách sản phẩm mẫu để truyền vào GachaLootWidget
+  String imagePath = '';
   final List<Product> sampleProducts = [
     const Product(
       name: "Bún chả",
-      imageUrl: "assets/images/bun_cha_300x300.png",
+      imageFileName: "bun_cha_300x300.png",
       price: 30000,
       rarity: "Common",
       description: "bún chả & thịt",
     ),
     const Product(
       name: "Sashimi",
-      imageUrl: "assets/images/sashimi_300x300.png",
+      imageFileName: "sashimi_300x300.png",
       price: 100000,
       rarity: "Exotic",
       description: "SASHIMIIIII",
     ),
     const Product(
       name: "Cơm tấm",
-      imageUrl: "assets/images/com_tam_300x300.png",
+      imageFileName: "com_tam_300x300.png",
       price: 60000,
       rarity: "Legendary",
       description: "Sà bì chưởng",
     ),
     const Product(
       name: "Phở gà",
-      imageUrl: "assets/images/pho_ga_300x300.png",
+      imageFileName: "pho_ga_300x300.png",
       price: 40000,
       rarity: "Rare",
       description: "Chicken",
     ),
     const Product(
       name: "Hàu nướng mỡ hành",
-      imageUrl: "assets/images/hau_nuong_mo_hanh_300x300.png",
+      imageFileName: "hau_nuong_mo_hanh_300x300.png",
       price: 50000,
       rarity: "Epic",
       description: "Mlem",
     ),
     const Product(
       name: "Rau muống xào",
-      imageUrl: "assets/images/rau_muong_xao_300x300.png",
+      imageFileName: "rau_muong_xao_300x300.png",
       price: 30000,
       rarity: "Uncommon",
       description: "Nhậu thôi",
@@ -70,9 +73,9 @@ class _TestScreenState extends State<TestScreen> {
         forceMaterialTransparency: true,
       ),
       body: Container(
-        decoration: const BoxDecoration(
+        decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/hom_nay_an_gi_169.png'),
+            image: AssetImage(AssetHelper.background('hom_nay_an_gi_bg.png')), 
             fit: BoxFit.cover, // Fills the entire screen
           ),
         ),
