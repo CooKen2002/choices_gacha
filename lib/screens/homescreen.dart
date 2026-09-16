@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'dart:ui';
 
 import 'package:unknow_application/screens/test_screen.dart';
-import 'package:unknow_application/screens/food_gacha_screen.dart'; // Dùng cho hàm lerpDouble
+import 'package:unknow_application/screens/food_gacha_screen.dart';
+import 'package:unknow_application/utils/asset_helper.dart'; // Dùng cho hàm lerpDouble
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -122,7 +123,7 @@ class _HomeScreenState extends State<HomeScreen> {
               _buildFeaturePage(
                 title: 'Hôm nay ăn gì?',
                 demoColor: Colors.orange.shade200,
-                demoScreenUrl: 'assets/images/hom_nay_an_gi_screen.jpg',
+                demoScreenUrl: AssetHelper.background('hom_nay_an_gi_screen.png'),
                 // onTap();
               ),
 
@@ -130,7 +131,7 @@ class _HomeScreenState extends State<HomeScreen> {
               _buildFeaturePage(
                 title: 'Hôm nay chơi gì?',
                 demoColor: Colors.purple.shade200,
-                demoScreenUrl: 'assets/images/hom_nay_an_gi_screen.jpg',
+                demoScreenUrl: AssetHelper.background('hom_nay_an_gi_screen.png'),
                 // onTap();
               ),
             ],
